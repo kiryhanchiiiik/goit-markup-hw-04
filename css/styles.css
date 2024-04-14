@@ -112,7 +112,9 @@ section {
   color: #404bbf;
 }
 .section-one {
-  background: #2e2f42;
+  background-image: url(/images/background.jpg);
+  background-size: cover;
+  background-position: center;
   padding-top: 188px;
   padding-bottom: 188px;
 }
