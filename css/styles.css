@@ -44,7 +44,7 @@ section {
   color: #2e2f42;
 }
 .container {
-  max-width: 1440px;
+  width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -151,6 +151,7 @@ section {
     url(/images/background.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
+  max-width: 1440px;
 }
 .zagolovok {
   font-size: 56px;
