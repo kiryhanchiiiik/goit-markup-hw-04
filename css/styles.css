@@ -79,7 +79,7 @@ section {
   display: flex;
   gap: 40px;
 }
-.navigation-1 {
+.studio-navigation {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -90,7 +90,7 @@ section {
   position: relative;
   color: #404bbf;
 }
-.navigation-1::after {
+.studio-navigation::after {
   content: "";
   width: 100%;
   position: absolute;
@@ -101,6 +101,7 @@ section {
   border-radius: 2px;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .navigation {
   font-weight: 500;
   line-height: 1.5;
