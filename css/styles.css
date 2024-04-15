@@ -90,7 +90,7 @@ section {
   position: relative;
   color: #404bbf;
 }
-.navigation-1 ::after {
+.navigation-1::after {
   content: "";
   width: 100%;
   position: absolute;
