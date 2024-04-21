@@ -83,6 +83,10 @@ section {
 .studio-navigation {
   display: block;
   position: relative;
+  color: #404bbf;
+}
+.navigation-item a {
+  color: #404bbf;
 }
 .studio-navigation::after {
   content: "";
@@ -455,4 +459,7 @@ section {
 .social-link:hover,
 .social-link:focus {
   background-color: #31d0aa;
+}
+.svg-footer {
+  fill: #f4f4fd;
 }
