@@ -143,7 +143,7 @@ section {
   max-width: 1440px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url(../images/background.jpg);
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -152,7 +152,7 @@ section {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/background.jpg);
+    url("../images/background.jpg");
   padding-top: 188px;
   padding-bottom: 188px;
 }
